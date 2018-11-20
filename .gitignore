@@ -1,0 +1,9 @@
+# Project files
+/node_module/
+package-lock.json
+
+# MAC file
+.DS_Store
+
+# WebStorm File
+.idea
